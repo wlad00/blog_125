@@ -3,3 +3,5 @@ master.txt
 second commit of master
 
 third commit of master
+
+forth commit of master
