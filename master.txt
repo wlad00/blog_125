@@ -1,9 +1,1 @@
 master.txt
-
-second commit of master
-
-third commit of master
-
-forth commit of master
-
-fifth commit of master
